@@ -1,0 +1,6 @@
+[book]
+authors = ["MrKomodoDragon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "FStop Docs"
