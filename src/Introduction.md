@@ -1,5 +1,7 @@
 # Introduction
 
+![F stop](https://avatars.githubusercontent.com/u/85209342?s=200&v=4)
+
 F stop is a language for manipulating images.
 
 ```fs
