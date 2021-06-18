@@ -10,3 +10,9 @@ default-theme="navy"
 preferred-dark-theme="navy"
 git-repository-url="https://github.com/f-stop-lang/docs"
 edit-url-template="https://github.com/f-stop-lang/docs/edit/master/{path}"
+
+[output.html.playground]
+editable = true
+copyable = true
+copy-js = true
+line-numbers = true
