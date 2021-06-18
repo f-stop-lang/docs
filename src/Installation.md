@@ -1,3 +1,3 @@
 # Installation
 
-To install f stop, is relatively simple. TODO
+Installing f-stop is relatively simple.  TODO
