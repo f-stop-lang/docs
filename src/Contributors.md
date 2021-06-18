@@ -1,12 +1,13 @@
 # Contributors
 
-F Stop wouldn't be a thing without them.
+
+F-Stop wouldn't be a thing without them.
 
 ## Supreme Cunt
 ### MrKomodoDragon
 
 
-> "The Supreme Cunt. You must bow down to me. I am your master. Use f-stop. or Else..."
+> "The Supreme Cunt. You must bow down to me. I am your master. Use F-Stop. or Else..."
 
 
 <img src="https://cdn.discordapp.com/attachments/855162325077458975/855288359080165386/693987130036453398.png" alt="MrKomodoDragon" style="height: 200px; width:200px;"/>

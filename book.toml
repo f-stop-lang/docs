@@ -3,7 +3,7 @@ authors = ["MrKomodoDragon", "Cryptex"]
 language = "en"
 multilingual = false
 src = "src"
-title = "FStop Docs"
+title = "F-Stop Documentation"
 
 [output.html]
 default-theme="navy"
