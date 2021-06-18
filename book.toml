@@ -1,6 +1,12 @@
 [book]
-authors = ["MrKomodoDragon"]
+authors = ["MrKomodoDragon", "Cryptex"]
 language = "en"
 multilingual = false
 src = "src"
 title = "FStop Docs"
+
+[output.html]
+default-theme="navy"
+preferred-dark-theme="navy"
+git-repository-url="https://github.com/f-stop-lang/docs"
+edit-url-template="https://github.com/f-stop-lang/docs/edit/master/{path}"
