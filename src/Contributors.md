@@ -3,7 +3,7 @@
 F Stop wouldn't be a thing without them.
 
 ## Supreme Cunt
-MrKomodoDragon
+### MrKomodoDragon
 
 
 > "The Supreme Cunt. You must bow down to me. I am your master. Use f-stop. or Else..."
@@ -13,7 +13,7 @@ MrKomodoDragon
 
 
 ## Person who made the doc
-Cryptex
+### Cryptex
 
 
 > "I am the best"
@@ -23,7 +23,7 @@ Cryptex
 
 
 ## Developers
-Jay3332
+### Jay3332
 
 
 > "This person is shy, they like to stay as mystery"
@@ -32,7 +32,7 @@ Jay3332
 <img src="https://cdn.discordapp.com/attachments/855162325077458975/855288813202833448/414556245178056706.gif" alt="Jay3332" style="height: 200px; width:200px;"/>
 
 
-Tom the bomb
+### Tom the bomb
 
 
 > "This person is shy, they like to stay as mystery"
