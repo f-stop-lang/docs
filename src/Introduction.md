@@ -2,7 +2,7 @@
 
 ![F stop](https://avatars.githubusercontent.com/u/85209342?s=200&v=4)
 
-F stop is a language for manipulating images.
+F stop is a language for manipulating images. Is very cool.
 
 ```fs
 OPEN "image.png" AS image
