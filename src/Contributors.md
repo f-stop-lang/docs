@@ -20,7 +20,7 @@ F-Stop wouldn't be a thing without them.
 > "I am the best"
 
 
-<img src="https://cdn.discordapp.com/attachments/855162325077458975/855288587623989248/590323594744168494.png" alt="Cryptex" style="height: 200px; width:200px;"/>
+<img src="https://cdn.discordapp.com/avatars/590323594744168494/a_0616e615f6574d125182b11f6d35669e.gif" alt="Cryptex" style="height: 200px; width:200px;"/>
 
 
 ## Developers
