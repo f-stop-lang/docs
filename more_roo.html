@@ -149,6 +149,31 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="more-roo"><a class="header" href="#more-roo">More Roo</a></h1>
+<pre><code class="language-prolog">OPEN URL &quot;https://cdn.discordapp.com/emojis/597589960270544916.png?v=1&quot; AS rooBless
+OPEN URL &quot;https://cdn.discordapp.com/emojis/511919340925354005.png?v=1&quot; AS rooDevil
+
+NEW [] AS roo
+
+RESIZE rooDevil (200, 200)
+RESIZE rooBless SIZE rooDevil
+APPEND rooBless TO roo
+MIRROR rooDevil
+APPEND rooDevil TO roo
+MIRROR rooBless
+APPEND rooBless TO roo
+MIRROR rooDevil
+APPEND rooDevil TO roo
+ROTATE rooBless 180
+ROTATE rooDevil 180
+APPEND rooBless TO roo
+MIRROR rooDevil
+APPEND rooDevil TO roo
+MIRROR rooBless
+APPEND rooBless TO roo
+MIRROR rooDevil
+APPEND rooDevil TO roo
+SAVE roo STREAM &quot;GIF&quot; DURATION 0 LOOP 0
+</code></pre>
 
                     </main>
 

@@ -149,6 +149,17 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="roo"><a class="header" href="#roo">Roo</a></h1>
+<pre><code class="language-prolog">OPEN URL &quot;https://cdn.discordapp.com/attachments/381963689470984203/861290980397547520/The_Anime_Bot_resize.png&quot; AS rooPog
+OPEN URL &quot;https://cdn.discordapp.com/emojis/597589960270544916.png?v=1&quot; AS rooBless
+OPEN URL &quot;https://cdn.discordapp.com/emojis/511919340925354005.png?v=1&quot; AS rooDevil
+
+NEW [] AS roo
+
+RESIZE rooPog (800, 800)
+
+ITER ([rooPog, rooBless, rooDevil] AS amogus) -&gt; (RESIZE amogus SIZE rooPog APPEND amogus TO roo)
+SAVE roo STREAM &quot;GIF&quot; DURATION 10 LOOP 0
+</code></pre>
 
                     </main>
 
