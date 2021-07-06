@@ -4,7 +4,7 @@
 F-Stop wouldn't be a thing without them.
 
 ## Supreme Cunt
-### MrKomodoDragon
+### MrKomodoDragon - Main dev of fstop-lark
 
 
 > "The Supreme Cunt. You must bow down to me. I am your master. Use F-Stop. or Else..."
@@ -14,7 +14,7 @@ F-Stop wouldn't be a thing without them.
 
 
 ## Person who made the doc
-### Cryptex
+### Cryptex - Helps with the docs
 
 
 > "I am the best"
@@ -24,7 +24,7 @@ F-Stop wouldn't be a thing without them.
 
 
 ## Developers
-### Jay3332
+### Jay3332 - Helps with ideas, regex and other stuff (in the future he might make it in C??)
 
 
 > "This person is shy, they like to stay as mystery"
@@ -33,7 +33,7 @@ F-Stop wouldn't be a thing without them.
 <img src="https://cdn.discordapp.com/attachments/855162325077458975/855288813202833448/414556245178056706.gif" alt="Jay3332" style="height: 200px; width:200px;"/>
 
 
-### Tom the bomb
+### Tom the bomb - Main dev of fstop-rply
 
 
 > "This person is shy, they like to stay as mystery"
